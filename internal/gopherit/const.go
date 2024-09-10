@@ -1,10 +1,10 @@
-package gogetem
+package gopherit
 
 const (
 	ApplicationVersion = "1.0.0"
 	Usage              = `
-gogetem %s
+gopherit %s
 
-gogetem [config path]
+gopherit [config path]
 `
 )
